@@ -345,10 +345,16 @@ footer{
     align-items: center;
     justify-content: center;
 }
-footer p:nth-child(1){
-    font-size: 30px;
+footer p:nth-child(2){
+    font-size: 20px;
     color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+footer h6:nth-child(1){
+    font-size: 30px;
+     color: #fff;
+     margin-bottom: 20px;
     font-weight: bold;
 }
 .social {
